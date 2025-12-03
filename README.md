@@ -10,3 +10,6 @@ ACESSO DO CONTAINER
 VERIFICAÇÃO DO BDD
 
 <img width="1198" height="491" alt="image" src="https://github.com/user-attachments/assets/8a59c52a-c0d1-4c7e-a2b8-c1edad618f05" />
+
+// COMANDO docker inspect mysql-A verifica informaçoes do container criado
+
